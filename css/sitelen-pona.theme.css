@@ -7,10 +7,7 @@
 
 :root {
   /* set sitelen pona font vars */
-  --font-sp-mono: 'Fairfax HD', 
-  		  'nasin-nanpa', 
-		  'sitelen seli kiwen mono juniko', 
-		  'sitelen seli kiwen mono juniko meso';
+  --font-sp-mono: 'Fairfax HD', 'nasin-nanpa', 'sitelen seli kiwen mono juniko', 'sitelen seli kiwen mono juniko meso';
 
   --font-sp: var(--font-sp-mono), 'sitelen seli kiwen juniko', 'sitelen seli kiwen juniko meso';
 
